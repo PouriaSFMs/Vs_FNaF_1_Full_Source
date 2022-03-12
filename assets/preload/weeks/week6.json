@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"let-us-in",
+			"fed",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"the-slaughter",
+			"fed2",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"dead-inside",
+			"gfed",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Do not play this if you are doing a YouTube video",
+	"weekName": "Week D",
+	"freeplayColor": [
+		255,
+		255,
+		255
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

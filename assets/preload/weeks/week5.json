@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"the-happiest-day",
+			"bfette",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "school",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Freddy and Friends are tired of your shit",
+	"weekName": "Happy",
+	"freeplayColor": [
+		255,
+		255,
+		255
+	],
+	"hideStoryMode": false,
+	"weekBefore": "week4",
+	"startUnlocked": true
+}

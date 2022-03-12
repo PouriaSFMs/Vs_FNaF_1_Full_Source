@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="jumpp3.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF Dead Loop0000" x="0" y="0" width="300" height="300"/>
+	<SubTexture name="BF Dead confirm0000" x="300" y="0" width="55" height="31"/>
+	<SubTexture name="BF dies0000" x="355" y="0" width="3000" height="1688"/>
+	<SubTexture name="BF dies0001" x="3355" y="0" width="3000" height="1688"/>
+	<SubTexture name="BF dies0002" x="0" y="1688" width="3000" height="1688"/>
+	<SubTexture name="BF dies0003" x="3000" y="1688" width="3000" height="1688"/>
+	<SubTexture name="BF dies0004" x="0" y="3376" width="3000" height="1688"/>
+	<SubTexture name="BF dies0005" x="3000" y="3376" width="3000" height="1688"/>
+	<SubTexture name="BF dies0006" x="0" y="5064" width="3000" height="1688"/>
+	<SubTexture name="BF dies0007" x="3000" y="5064" width="3000" height="1688"/>
+</TextureAtlas>

@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 3.2,
+		"stage": "stage3f",
+		"player1": "bf3",
+		"player2": "gfreddy",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"black-remove",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 174,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "dead-inside"
+	}
+}

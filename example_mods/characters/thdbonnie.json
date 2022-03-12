@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				-80
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Dad Sing Note LEFT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-120
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Dad Sing Note DOWN"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				10
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Dad Sing Note UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-120,
+				-70
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Dad Sing Note RIGHT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-70
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Dad idle dance"
+		},
+		{
+			"offsets": [
+				160,
+				120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "door",
+			"indices": [],
+			"name": "door"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/thdbonnie",
+	"position": [
+		-40,
+		-200
+	],
+	"healthicon": "bon3",
+	"flip_x": false,
+	"healthbar_colors": [
+		82,
+		9,
+		157
+	],
+	"camera_position": [
+		-100,
+		-200
+	],
+	"sing_duration": 10,
+	"scale": 1.6
+}

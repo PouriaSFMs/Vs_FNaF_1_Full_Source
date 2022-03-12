@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-50,
+				0
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Dad Sing Note LEFT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-60,
+				-150
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Dad Sing Note DOWN",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-30,
+				30
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Dad Sing Note UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-30,
+				-30
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Dad Sing Note RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-100,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Dad idle dance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				170,
+				-90
+			],
+			"loop": false,
+			"anim": "scare",
+			"fps": 24,
+			"name": "jump",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-96,
+				-4
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Cupcake left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-61,
+				-1
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "Cupcake right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				6
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "Cupcake up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-56,
+				-34
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Cupcake down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/thdchicah",
+	"position": [
+		220,
+		-200
+	],
+	"healthicon": "chic3",
+	"flip_x": false,
+	"healthbar_colors": [
+		208,
+		161,
+		0
+	],
+	"camera_position": [
+		-500,
+		-300
+	],
+	"sing_duration": 10,
+	"scale": 1.6
+}

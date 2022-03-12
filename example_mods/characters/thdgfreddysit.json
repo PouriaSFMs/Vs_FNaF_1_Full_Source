@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				510,
+				-75
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Dad Sing Note LEFT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				450,
+				-130
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Dad Sing Note DOWN",
+			"indices": []
+		},
+		{
+			"offsets": [
+				450,
+				-50
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Dad Sing Note UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				450,
+				-65
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Dad Sing Note RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				460,
+				-40
+			],
+			"loop": true,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Dad idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				545,
+				325
+			],
+			"anim": "trans",
+			"fps": 24,
+			"name": "trans",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/thdgfreddysit",
+	"position": [
+		-100,
+		0
+	],
+	"healthicon": "gfed2",
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		180,
+		0
+	],
+	"camera_position": [
+		-500,
+		30
+	],
+	"sing_duration": 10,
+	"scale": 1.2
+}

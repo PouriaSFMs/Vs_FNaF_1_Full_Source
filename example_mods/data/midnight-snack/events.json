@@ -1,0 +1,309 @@
+{
+	"song": {
+		"speed": 2.6,
+		"stage": "stage1c",
+		"player1": "bf2",
+		"player2": "chica",
+		"player3": null,
+		"events": [
+			[
+				4800,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				6600,
+				[
+					[
+						"Add Camera Zoom",
+						"0.025",
+						"0.045"
+					]
+				]
+			],
+			[
+				6900,
+				[
+					[
+						"Add Camera Zoom",
+						"0.025",
+						"0.045"
+					]
+				]
+			],
+			[
+				11400,
+				[
+					[
+						"Add Camera Zoom",
+						"0.025",
+						"0.045"
+					]
+				]
+			],
+			[
+				11700,
+				[
+					[
+						"Add Camera Zoom",
+						"0.025",
+						"0.045"
+					]
+				]
+			],
+			[
+				23400,
+				[
+					[
+						"Add Camera Zoom",
+						"0.025",
+						"0.045"
+					]
+				]
+			],
+			[
+				23700,
+				[
+					[
+						"Add Camera Zoom",
+						"0.025",
+						"0.045"
+					]
+				]
+			],
+			[
+				33000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.025",
+						"0.045"
+					]
+				]
+			],
+			[
+				33300,
+				[
+					[
+						"Add Camera Zoom",
+						"0.025",
+						"0.045"
+					]
+				]
+			],
+			[
+				72000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				72600,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				73200,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				73800,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				74400,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				75000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				75600,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				76200,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				76800,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				77400,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				78000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				78600,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				79200,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				79800,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				80400,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				81000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				88800,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				89250,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				89700,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				90000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "bf",
+		"bpm": 100,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "midnight-snack"
+	}
+}

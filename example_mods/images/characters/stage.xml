@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="stage.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="america0000" x="0" y="0" width="1500" height="535"/>
+	<SubTexture name="chica0000" x="1500" y="0" width="1456" height="1000"/>
+	<SubTexture name="foxy0000" x="2956" y="0" width="1500" height="844"/>
+	<SubTexture name="glow0000" x="4456" y="0" width="2000" height="1125"/>
+	<SubTexture name="glow0001" x="0" y="1125" width="2000" height="1125"/>
+	<SubTexture name="glow0002" x="2000" y="1125" width="2000" height="1125"/>
+	<SubTexture name="glow0003" x="4000" y="1125" width="2000" height="1125"/>
+	<SubTexture name="glow0004" x="6000" y="1125" width="2000" height="1125"/>
+	<SubTexture name="glow0005" x="0" y="2250" width="2000" height="1125"/>
+	<SubTexture name="glow0006" x="2000" y="2250" width="2000" height="1125"/>
+	<SubTexture name="glow0007" x="4000" y="2250" width="2000" height="1125"/>
+	<SubTexture name="glow0008" x="6000" y="2250" width="2000" height="1125"/>
+	<SubTexture name="glow0009" x="0" y="3375" width="2000" height="1125"/>
+	<SubTexture name="glow0010" x="2000" y="3375" width="2000" height="1125"/>
+	<SubTexture name="glow0011" x="4000" y="3375" width="2000" height="1125"/>
+	<SubTexture name="idle0000" x="6000" y="3375" width="5" height="5"/>
+	<SubTexture name="static0000" x="6005" y="3375" width="1500" height="1130"/>
+	<SubTexture name="static0001" x="0" y="4505" width="1500" height="1130"/>
+	<SubTexture name="static0002" x="1500" y="4505" width="1500" height="1130"/>
+	<SubTexture name="static0003" x="3000" y="4505" width="1500" height="1130"/>
+	<SubTexture name="storm0000" x="4500" y="4505" width="1000" height="675"/>
+	<SubTexture name="vietnam0000" x="5500" y="4505" width="1200" height="675"/>
+</TextureAtlas>

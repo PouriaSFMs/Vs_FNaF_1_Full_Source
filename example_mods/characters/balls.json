@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				360,
+				90
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Dad Sing Note LEFT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				360,
+				90
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Dad Sing Note DOWN",
+			"indices": []
+		},
+		{
+			"offsets": [
+				360,
+				90
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Dad Sing Note UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				360,
+				90
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Dad Sing Note RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				360,
+				90
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Dad idle dance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-110,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "turn",
+			"indices": [],
+			"name": "turn"
+		},
+		{
+			"offsets": [
+				377,
+				109
+			],
+			"loop": true,
+			"fps": 72,
+			"anim": "ball",
+			"indices": [],
+			"name": "ball"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/fazball",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "fed",
+	"flip_x": false,
+	"healthbar_colors": [
+		109,
+		60,
+		14
+	],
+	"camera_position": [
+		-650,
+		-250
+	],
+	"sing_duration": 10,
+	"scale": 1.4
+}

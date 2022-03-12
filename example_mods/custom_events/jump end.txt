@@ -1,0 +1,5 @@
+This puts an image on the top layer at x 0 and y 0. Will be behind the characters.
+Must be in mods/images
+
+Value 1: Name of the image
+Value 2: the sprites tag

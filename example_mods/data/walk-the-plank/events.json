@@ -1,0 +1,79 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "stage2p",
+		"player1": "bf5",
+		"player2": "foxy2",
+		"player3": null,
+		"events": [
+			[
+				67200,
+				[
+					[
+						"Change Character",
+						"1",
+						"foxyp"
+					],
+					[
+						"Change Character",
+						"Dad",
+						"bf-pixel"
+					],
+					[
+						"Play Animation",
+						"foxy",
+						"GF"
+					]
+				]
+			],
+			[
+				98400,
+				[
+					[
+						"Change Character",
+						"1",
+						"foxy2"
+					],
+					[
+						"Change Character",
+						"Dad",
+						"bf5"
+					],
+					[
+						"Play Animation",
+						"idle",
+						"GF"
+					]
+				]
+			],
+			[
+				99600,
+				[
+					[
+						"Play Animation",
+						"hereicome",
+						"Dad"
+					]
+				]
+			],
+			[
+				152400,
+				[
+					[
+						"black",
+						"",
+						"10"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "stage",
+		"bpm": 200,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "walk-the-plank"
+	}
+}

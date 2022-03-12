@@ -1,0 +1,679 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "stage1f",
+		"player1": "bf3",
+		"player2": "freddy",
+		"player3": null,
+		"events": [
+			[
+				9600,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				16000,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				25600,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				32000,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				41600,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				51200,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				60800,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				61600,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				62400,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				63200,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				64000,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				64800,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				65600,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				66400,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				67200,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				68000,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				68800,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				69600,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				70400,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				71200,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				72000,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				112000,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				115200,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				121600,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				128000,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				134400,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				144000,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				147200,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				153600,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				160000,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				163200,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				164000,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				164800,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				165600,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				166400,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				167200,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				168800,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				169600,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				170400,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				171200,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				172000,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				172800,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				173600,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				174400,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				175200,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				188800,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				189600,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				190400,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				191200,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				192000,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				192800,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				193600,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				194400,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				195200,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				196000,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				196800,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				197600,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				198400,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				199200,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				200000,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				200800,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				214600,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				217600,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				220800,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				227200,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				233600,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf2",
+		"bpm": 150,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "freddy-assbear"
+	}
+}

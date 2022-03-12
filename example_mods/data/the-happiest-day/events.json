@@ -1,0 +1,849 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "thd",
+		"player1": "bf2",
+		"player2": "thdgfreddysit",
+		"player3": null,
+		"events": [
+			[
+				12000,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"bf7"
+					]
+				]
+			],
+			[
+				24000,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"bf8"
+					],
+					[
+						"Change Character",
+						"1",
+						"thdfreddy"
+					],
+					[
+						"Play Animation",
+						"freddy",
+						"GF"
+					]
+				]
+			],
+			[
+				35250,
+				[
+					[
+						"Play Animation",
+						"feddy",
+						"GF"
+					],
+					[
+						"Change Character",
+						"Dad",
+						"bf10"
+					],
+					[
+						"Change Character",
+						"1",
+						"thdfreddy2"
+					]
+				]
+			],
+			[
+				63000,
+				[
+					[
+						"Change Character",
+						"1",
+						"thdfreddy"
+					],
+					[
+						"Change Character",
+						"Dad",
+						"bf8"
+					],
+					[
+						"Play Animation",
+						"freddy",
+						"GF"
+					]
+				]
+			],
+			[
+				74995.3125,
+				[
+					[
+						"the-door",
+						"",
+						""
+					]
+				]
+			],
+			[
+				75000,
+				[
+					[
+						"Play Animation",
+						"bonnie",
+						"GF"
+					],
+					[
+						"Change Character",
+						"1",
+						"thdbonnie"
+					]
+				]
+			],
+			[
+				76125,
+				[
+					[
+						"Play Animation",
+						"door",
+						"Dad"
+					]
+				]
+			],
+			[
+				79125,
+				[
+					[
+						"Play Animation",
+						"door",
+						"Dad"
+					]
+				]
+			],
+			[
+				82125,
+				[
+					[
+						"Play Animation",
+						"door",
+						"Dad"
+					]
+				]
+			],
+			[
+				85125,
+				[
+					[
+						"Play Animation",
+						"door",
+						"Dad"
+					]
+				]
+			],
+			[
+				87000,
+				[
+					[
+						"Change Scroll Speed",
+						"1.1",
+						"1"
+					]
+				]
+			],
+			[
+				88091.9117647059,
+				[
+					[
+						"Play Animation",
+						"door",
+						"Dad"
+					]
+				]
+			],
+			[
+				89490.4411764706,
+				[
+					[
+						"Play Animation",
+						"door",
+						"Dad"
+					]
+				]
+			],
+			[
+				90913.2352941176,
+				[
+					[
+						"Play Animation",
+						"door",
+						"Dad"
+					]
+				]
+			],
+			[
+				93741.1764705882,
+				[
+					[
+						"Play Animation",
+						"door",
+						"Dad"
+					]
+				]
+			],
+			[
+				95146.3235294117,
+				[
+					[
+						"Play Animation",
+						"door",
+						"Dad"
+					]
+				]
+			],
+			[
+				96569.1176470588,
+				[
+					[
+						"Play Animation",
+						"door",
+						"Dad"
+					]
+				]
+			],
+			[
+				99381.6176470588,
+				[
+					[
+						"Play Animation",
+						"door",
+						"Dad"
+					]
+				]
+			],
+			[
+				100806.617647059,
+				[
+					[
+						"Play Animation",
+						"door",
+						"Dad"
+					]
+				]
+			],
+			[
+				102209.558823529,
+				[
+					[
+						"Play Animation",
+						"door",
+						"Dad"
+					]
+				]
+			],
+			[
+				103621.323529412,
+				[
+					[
+						"Play Animation",
+						"door",
+						"Dad"
+					]
+				]
+			],
+			[
+				104419.852941176,
+				[
+					[
+						"Play Animation",
+						"door",
+						"Dad"
+					]
+				]
+			],
+			[
+				107823.529411765,
+				[
+					[
+						"Play Animation",
+						"door",
+						"Dad"
+					]
+				]
+			],
+			[
+				110647.058823529,
+				[
+					[
+						"Play Animation",
+						"door",
+						"Dad"
+					]
+				]
+			],
+			[
+				112058.823529412,
+				[
+					[
+						"Play Animation",
+						"door",
+						"Dad"
+					]
+				]
+			],
+			[
+				114906.617647059,
+				[
+					[
+						"Play Animation",
+						"door",
+						"Dad"
+					]
+				]
+			],
+			[
+				116320.588235294,
+				[
+					[
+						"Play Animation",
+						"door",
+						"Dad"
+					]
+				]
+			],
+			[
+				119166.176470588,
+				[
+					[
+						"Play Animation",
+						"door",
+						"Dad"
+					]
+				]
+			],
+			[
+				120566.911764706,
+				[
+					[
+						"Play Animation",
+						"door",
+						"Dad"
+					]
+				]
+			],
+			[
+				136411.764705882,
+				[
+					[
+						"Change Character",
+						"1",
+						"thdchica"
+					],
+					[
+						"Change Character",
+						"Dad",
+						"bf9"
+					],
+					[
+						"Play Animation",
+						"chica",
+						"GF"
+					]
+				]
+			],
+			[
+				136411.764705882,
+				[
+					[
+						"door-remove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				137823.529411765,
+				[
+					[
+						"Play Animation",
+						"scare",
+						"Dad"
+					]
+				]
+			],
+			[
+				138176.470588235,
+				[
+					[
+						"Play Animation",
+						"scare",
+						"Dad"
+					]
+				]
+			],
+			[
+				138529.411764706,
+				[
+					[
+						"Play Animation",
+						"scare",
+						"Dad"
+					]
+				]
+			],
+			[
+				138882.352941176,
+				[
+					[
+						"Play Animation",
+						"scare",
+						"Dad"
+					]
+				]
+			],
+			[
+				140647.058823529,
+				[
+					[
+						"Play Animation",
+						"scare",
+						"Dad"
+					]
+				]
+			],
+			[
+				141000,
+				[
+					[
+						"Play Animation",
+						"scare",
+						"Dad"
+					]
+				]
+			],
+			[
+				141352.94117647,
+				[
+					[
+						"Play Animation",
+						"scare",
+						"Dad"
+					]
+				]
+			],
+			[
+				141705.882352941,
+				[
+					[
+						"Play Animation",
+						"scare",
+						"Dad"
+					]
+				]
+			],
+			[
+				143470.588235294,
+				[
+					[
+						"Play Animation",
+						"scare",
+						"Dad"
+					]
+				]
+			],
+			[
+				143823.529411765,
+				[
+					[
+						"Play Animation",
+						"scare",
+						"Dad"
+					]
+				]
+			],
+			[
+				144176.470588235,
+				[
+					[
+						"Play Animation",
+						"scare",
+						"Dad"
+					]
+				]
+			],
+			[
+				144529.411764706,
+				[
+					[
+						"Play Animation",
+						"scare",
+						"Dad"
+					]
+				]
+			],
+			[
+				146294.117647059,
+				[
+					[
+						"Play Animation",
+						"scare",
+						"Dad"
+					]
+				]
+			],
+			[
+				146647.058823529,
+				[
+					[
+						"Play Animation",
+						"scare",
+						"Dad"
+					]
+				]
+			],
+			[
+				147000,
+				[
+					[
+						"Play Animation",
+						"scare",
+						"Dad"
+					]
+				]
+			],
+			[
+				147352.94117647,
+				[
+					[
+						"Play Animation",
+						"scare",
+						"Dad"
+					]
+				]
+			],
+			[
+				192882.352941176,
+				[
+					[
+						"Change Scroll Speed",
+						"0.9",
+						"1"
+					]
+				]
+			],
+			[
+				192882.352941176,
+				[
+					[
+						"foxyj2",
+						"",
+						""
+					]
+				]
+			],
+			[
+				192970.588235294,
+				[
+					[
+						"Play Animation",
+						"foxy",
+						"GF"
+					],
+					[
+						"Change Scroll Speed",
+						"1.1",
+						"6"
+					],
+					[
+						"Change Character",
+						"1",
+						"thdfoxy"
+					]
+				]
+			],
+			[
+				193235.294117647,
+				[
+					[
+						"Play Animation",
+						"thing",
+						"Dad"
+					]
+				]
+			],
+			[
+				194294.117647059,
+				[
+					[
+						"foxyj2-remove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				197994.117647059,
+				[
+					[
+						"Play Animation",
+						"sands",
+						"Dad"
+					]
+				]
+			],
+			[
+				239094.117647059,
+				[
+					[
+						"black",
+						"black",
+						""
+					]
+				]
+			],
+			[
+				240125.367647059,
+				[
+					[
+						"Change Character",
+						"1",
+						"thdgfreddysit"
+					],
+					[
+						"Change Character",
+						"Dad",
+						"bf7"
+					]
+				]
+			],
+			[
+				240312.867647059,
+				[
+					[
+						"Play Animation",
+						"idle",
+						"GF"
+					],
+					[
+						"Change Character",
+						"Dad",
+						"bf7"
+					],
+					[
+						"Change Character",
+						"1",
+						"thdgfreddysit"
+					]
+				]
+			],
+			[
+				240594.117647059,
+				[
+					[
+						"black-remove",
+						"",
+						""
+					]
+				]
+			],
+			[
+				242094.117647059,
+				[
+					[
+						"Play Animation",
+						"trans",
+						"Dad"
+					]
+				]
+			],
+			[
+				245094.117647059,
+				[
+					[
+						"Change Character",
+						"1",
+						"thdgfreddyfly"
+					]
+				]
+			],
+			[
+				245187.867647059,
+				[
+					[
+						"Change Scroll Speed",
+						"1.1",
+						"1"
+					]
+				]
+			],
+			[
+				245281.617647059,
+				[
+					[
+						"Play Animation",
+						"idle",
+						"Dad"
+					]
+				]
+			],
+			[
+				281094.117647059,
+				[
+					[
+						"Change Character",
+						"1",
+						"thdfreddy"
+					],
+					[
+						"Change Character",
+						"Dad",
+						"bf8"
+					],
+					[
+						"Play Animation",
+						"freddy",
+						"GF"
+					]
+				]
+			],
+			[
+				281187.867647059,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				284094.117647059,
+				[
+					[
+						"Play Animation",
+						"bonnie",
+						"GF"
+					],
+					[
+						"the-door",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"1",
+						"thdbonnie"
+					]
+				]
+			],
+			[
+				287094.117647059,
+				[
+					[
+						"Change Character",
+						"1",
+						"thdchica"
+					],
+					[
+						"door-remove",
+						"",
+						""
+					],
+					[
+						"Play Animation",
+						"chica",
+						"GF"
+					],
+					[
+						"Change Character",
+						"Dad",
+						"bf9"
+					]
+				]
+			],
+			[
+				290094.117647059,
+				[
+					[
+						"Change Character",
+						"1",
+						"thdfoxy"
+					],
+					[
+						"Play Animation",
+						"foxy",
+						"GF"
+					]
+				]
+			],
+			[
+				293094.117647059,
+				[
+					[
+						"Change Character",
+						"1",
+						"thdgfreddyfly"
+					],
+					[
+						"Change Character",
+						"Dad",
+						"bf7"
+					],
+					[
+						"Play Animation",
+						"idle",
+						"GF"
+					]
+				]
+			],
+			[
+				371094.117647059,
+				[
+					[
+						"Screen Shake",
+						"1.5, 0.05",
+						"1.5, 0.08"
+					]
+				]
+			],
+			[
+				372594.117647059,
+				[
+					[
+						"Screen Shake",
+						"1.5, 0.1",
+						"1.5, 0.16"
+					]
+				]
+			],
+			[
+				374094.117647059,
+				[
+					[
+						"Opponent Fade",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				386094.117647059,
+				[
+					[
+						"black",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "thdstage",
+		"bpm": 160,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "the-happiest-day"
+	}
+}

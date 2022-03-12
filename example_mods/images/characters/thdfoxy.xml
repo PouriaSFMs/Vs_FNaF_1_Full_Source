@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="thdfoxy.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dad Sing Note DOWN0000" x="0" y="0" width="510" height="532" frameX="-22" frameY="-46" frameWidth="532" frameHeight="578"/>
+	<SubTexture name="Dad Sing Note DOWN0001" x="510" y="0" width="503" height="557" frameX="-29" frameY="-21" frameWidth="532" frameHeight="578"/>
+	<SubTexture name="Dad Sing Note DOWN0002" x="1013" y="0" width="526" height="572" frameX="-6" frameY="-6" frameWidth="532" frameHeight="578"/>
+	<SubTexture name="Dad Sing Note DOWN0003" x="1539" y="0" width="532" height="575" frameX="0" frameY="-3" frameWidth="532" frameHeight="578"/>
+	<SubTexture name="Dad Sing Note DOWN0004" x="2071" y="0" width="532" height="578"/>
+	<SubTexture name="Dad Sing Note LEFT0000" x="2603" y="0" width="487" height="560" frameX="-47" frameY="-47" frameWidth="534" frameHeight="607"/>
+	<SubTexture name="Dad Sing Note LEFT0001" x="3090" y="0" width="504" height="584" frameX="-26" frameY="-17" frameWidth="534" frameHeight="607"/>
+	<SubTexture name="Dad Sing Note LEFT0002" x="3594" y="0" width="514" height="601" frameX="-2" frameY="0" frameWidth="534" frameHeight="607"/>
+	<SubTexture name="Dad Sing Note LEFT0003" x="4108" y="0" width="513" height="601" frameX="0" frameY="0" frameWidth="534" frameHeight="607"/>
+	<SubTexture name="Dad Sing Note LEFT0004" x="4621" y="0" width="513" height="597" frameX="-2" frameY="-4" frameWidth="534" frameHeight="607"/>
+	<SubTexture name="Dad Sing Note RIGHT0000" x="5134" y="0" width="447" height="667" frameX="0" frameY="0" frameWidth="447" frameHeight="675"/>
+	<SubTexture name="Dad Sing Note RIGHT0001" x="5581" y="0" width="424" height="675" frameX="0" frameY="0" frameWidth="447" frameHeight="675"/>
+	<SubTexture name="Dad Sing Note RIGHT0002" x="6005" y="0" width="394" height="656" frameX="0" frameY="0" frameWidth="447" frameHeight="675"/>
+	<SubTexture name="Dad Sing Note RIGHT0003" x="6399" y="0" width="390" height="656" frameX="0" frameY="0" frameWidth="447" frameHeight="675"/>
+	<SubTexture name="Dad Sing Note RIGHT0004" x="6789" y="0" width="394" height="668" frameX="0" frameY="0" frameWidth="447" frameHeight="675"/>
+	<SubTexture name="Dad Sing Note UP0000" x="7183" y="0" width="426" height="696" frameX="-43" frameY="0" frameWidth="471" frameHeight="696"/>
+	<SubTexture name="Dad Sing Note UP0001" x="7609" y="0" width="449" height="671" frameX="-22" frameY="-23" frameWidth="471" frameHeight="696"/>
+	<SubTexture name="Dad Sing Note UP0002" x="0" y="696" width="458" height="683" frameX="-2" frameY="-11" frameWidth="471" frameHeight="696"/>
+	<SubTexture name="Dad Sing Note UP0003" x="458" y="696" width="448" height="689" frameX="0" frameY="-5" frameWidth="471" frameHeight="696"/>
+	<SubTexture name="Dad Sing Note UP0004" x="906" y="696" width="434" height="689" frameX="-2" frameY="-5" frameWidth="471" frameHeight="696"/>
+	<SubTexture name="Dad idle dance0000" x="1340" y="696" width="474" height="594" frameX="-23" frameY="-52" frameWidth="499" frameHeight="646"/>
+	<SubTexture name="Dad idle dance0001" x="1814" y="696" width="471" height="589" frameX="-27" frameY="-57" frameWidth="499" frameHeight="646"/>
+	<SubTexture name="Dad idle dance0002" x="2285" y="696" width="469" height="577" frameX="-30" frameY="-69" frameWidth="499" frameHeight="646"/>
+	<SubTexture name="Dad idle dance0003" x="2754" y="696" width="463" height="580" frameX="-36" frameY="-66" frameWidth="499" frameHeight="646"/>
+	<SubTexture name="Dad idle dance0004" x="3217" y="696" width="466" height="593" frameX="-30" frameY="-53" frameWidth="499" frameHeight="646"/>
+	<SubTexture name="Dad idle dance0005" x="3683" y="696" width="471" height="611" frameX="-22" frameY="-35" frameWidth="499" frameHeight="646"/>
+	<SubTexture name="Dad idle dance0006" x="4154" y="696" width="484" height="628" frameX="-9" frameY="-18" frameWidth="499" frameHeight="646"/>
+	<SubTexture name="Dad idle dance0007" x="4638" y="696" width="493" height="644" frameX="0" frameY="-2" frameWidth="499" frameHeight="646"/>
+	<SubTexture name="Dad idle dance0008" x="5131" y="696" width="489" height="646" frameX="-4" frameY="0" frameWidth="499" frameHeight="646"/>
+	<SubTexture name="Dad idle dance0009" x="5620" y="696" width="485" height="644" frameX="-8" frameY="-2" frameWidth="499" frameHeight="646"/>
+	<SubTexture name="idle thing0000" x="6105" y="696" width="482" height="694"/>
+	<SubTexture name="sands0000" x="6587" y="696" width="482" height="693" frameX="-26" frameY="-24" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0001" x="7069" y="696" width="488" height="691" frameX="-19" frameY="-26" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0002" x="7557" y="696" width="493" height="689" frameX="-13" frameY="-28" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0003" x="0" y="1390" width="495" height="690" frameX="-10" frameY="-27" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0004" x="495" y="1390" width="496" height="696" frameX="-9" frameY="-21" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0005" x="991" y="1390" width="496" height="703" frameX="-8" frameY="-14" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0006" x="1487" y="1390" width="498" height="709" frameX="-6" frameY="-8" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0007" x="1985" y="1390" width="501" height="711" frameX="-3" frameY="-6" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0008" x="2486" y="1390" width="505" height="711" frameX="0" frameY="-6" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0009" x="2991" y="1390" width="506" height="710" frameX="0" frameY="-7" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0010" x="3497" y="1390" width="505" height="706" frameX="-2" frameY="-11" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0011" x="4002" y="1390" width="501" height="702" frameX="-7" frameY="-15" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0012" x="4503" y="1390" width="495" height="699" frameX="-14" frameY="-18" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0013" x="4998" y="1390" width="490" height="698" frameX="-20" frameY="-19" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0014" x="5488" y="1390" width="486" height="697" frameX="-25" frameY="-20" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0015" x="5974" y="1390" width="484" height="697" frameX="-28" frameY="-20" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0016" x="6458" y="1390" width="483" height="698" frameX="-30" frameY="-19" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0017" x="6941" y="1390" width="480" height="702" frameX="-33" frameY="-15" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0018" x="7421" y="1390" width="475" height="707" frameX="-38" frameY="-10" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0019" x="0" y="2101" width="468" height="710" frameX="-45" frameY="-7" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0020" x="468" y="2101" width="460" height="709" frameX="-52" frameY="-8" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0021" x="928" y="2101" width="456" height="705" frameX="-56" frameY="-12" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0022" x="1384" y="2101" width="452" height="701" frameX="-60" frameY="-16" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0023" x="1836" y="2101" width="448" height="697" frameX="-64" frameY="-20" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0024" x="2284" y="2101" width="443" height="692" frameX="-68" frameY="-25" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0025" x="2727" y="2101" width="438" height="686" frameX="-73" frameY="-31" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0026" x="3165" y="2101" width="432" height="682" frameX="-78" frameY="-35" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0027" x="3597" y="2101" width="426" height="681" frameX="-83" frameY="-36" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0028" x="4023" y="2101" width="422" height="682" frameX="-87" frameY="-35" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0029" x="4445" y="2101" width="417" height="682" frameX="-91" frameY="-35" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0030" x="4862" y="2101" width="412" height="682" frameX="-95" frameY="-35" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0031" x="5274" y="2101" width="409" height="683" frameX="-97" frameY="-34" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0032" x="5683" y="2101" width="406" height="683" frameX="-100" frameY="-34" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0033" x="6089" y="2101" width="403" height="683" frameX="-102" frameY="-34" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0034" x="6492" y="2101" width="399" height="683" frameX="-106" frameY="-34" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0035" x="6891" y="2101" width="396" height="682" frameX="-109" frameY="-35" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0036" x="7287" y="2101" width="392" height="681" frameX="-113" frameY="-36" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0037" x="7679" y="2101" width="388" height="680" frameX="-117" frameY="-37" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0038" x="0" y="2811" width="384" height="681" frameX="-121" frameY="-36" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0039" x="384" y="2811" width="380" height="681" frameX="-125" frameY="-36" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0040" x="764" y="2811" width="376" height="684" frameX="-129" frameY="-33" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0041" x="1140" y="2811" width="372" height="687" frameX="-133" frameY="-30" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0042" x="1512" y="2811" width="368" height="691" frameX="-137" frameY="-26" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0043" x="1880" y="2811" width="364" height="693" frameX="-140" frameY="-24" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0044" x="2244" y="2811" width="361" height="694" frameX="-143" frameY="-23" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0045" x="2605" y="2811" width="357" height="693" frameX="-146" frameY="-24" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0046" x="2962" y="2811" width="353" height="692" frameX="-149" frameY="-25" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0047" x="3315" y="2811" width="350" height="690" frameX="-151" frameY="-27" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0048" x="3665" y="2811" width="347" height="688" frameX="-153" frameY="-29" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0049" x="4012" y="2811" width="344" height="687" frameX="-155" frameY="-30" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0050" x="4356" y="2811" width="339" height="687" frameX="-159" frameY="-30" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0051" x="4695" y="2811" width="333" height="687" frameX="-164" frameY="-30" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0052" x="5028" y="2811" width="330" height="687" frameX="-167" frameY="-30" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0053" x="5358" y="2811" width="332" height="687" frameX="-167" frameY="-30" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0054" x="5690" y="2811" width="340" height="685" frameX="-163" frameY="-32" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0055" x="6030" y="2811" width="351" height="685" frameX="-156" frameY="-32" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0056" x="6381" y="2811" width="357" height="697" frameX="-152" frameY="-20" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0057" x="6738" y="2811" width="364" height="710" frameX="-154" frameY="-7" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0058" x="7102" y="2811" width="389" height="717" frameX="-140" frameY="0" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0059" x="7491" y="2811" width="427" height="717" frameX="-106" frameY="0" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0060" x="0" y="3528" width="440" height="717" frameX="-89" frameY="0" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0061" x="440" y="3528" width="448" height="715" frameX="-74" frameY="-2" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0062" x="888" y="3528" width="453" height="699" frameX="-62" frameY="-18" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0063" x="1341" y="3528" width="456" height="702" frameX="-53" frameY="-15" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0064" x="1797" y="3528" width="460" height="704" frameX="-45" frameY="-13" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0065" x="2257" y="3528" width="464" height="694" frameX="-39" frameY="-23" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0066" x="2721" y="3528" width="471" height="681" frameX="-34" frameY="-36" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0067" x="3192" y="3528" width="474" height="685" frameX="-35" frameY="-32" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sands0068" x="3666" y="3528" width="477" height="686" frameX="-35" frameY="-31" frameWidth="533" frameHeight="717"/>
+	<SubTexture name="sword0000" x="4143" y="3528" width="443" height="654" frameX="-78" frameY="-10" frameWidth="521" frameHeight="668"/>
+	<SubTexture name="sword0001" x="4586" y="3528" width="412" height="631" frameX="-109" frameY="-31" frameWidth="521" frameHeight="668"/>
+	<SubTexture name="sword0002" x="4998" y="3528" width="407" height="668" frameX="-77" frameY="0" frameWidth="521" frameHeight="668"/>
+	<SubTexture name="sword0003" x="5405" y="3528" width="450" height="323" frameX="-32" frameY="-345" frameWidth="521" frameHeight="668"/>
+	<SubTexture name="sword0004" x="5855" y="3528" width="457" height="312" frameX="-25" frameY="-353" frameWidth="521" frameHeight="668"/>
+	<SubTexture name="sword0005" x="6312" y="3528" width="457" height="307" frameX="-27" frameY="-357" frameWidth="521" frameHeight="668"/>
+	<SubTexture name="sword0006" x="6769" y="3528" width="461" height="324" frameX="-25" frameY="-339" frameWidth="521" frameHeight="668"/>
+	<SubTexture name="sword0007" x="7230" y="3528" width="462" height="406" frameX="-26" frameY="-260" frameWidth="521" frameHeight="668"/>
+	<SubTexture name="sword0008" x="7692" y="3528" width="450" height="447" frameX="-41" frameY="-220" frameWidth="521" frameHeight="668"/>
+</TextureAtlas>

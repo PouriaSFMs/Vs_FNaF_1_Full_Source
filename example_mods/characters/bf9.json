@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				420,
+				420
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF idle dance"
+		},
+		{
+			"offsets": [
+				420,
+				420
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BF NOTE LEFT0"
+		},
+		{
+			"offsets": [
+				420,
+				420
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BF NOTE DOWN0"
+		},
+		{
+			"offsets": [
+				420,
+				420
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BF NOTE UP0"
+		},
+		{
+			"offsets": [
+				420,
+				420
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF NOTE RIGHT0"
+		},
+		{
+			"offsets": [
+				420,
+				420
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "BF NOTE LEFT MISS"
+		},
+		{
+			"offsets": [
+				420,
+				420
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "BF NOTE DOWN MISS"
+		},
+		{
+			"offsets": [
+				420,
+				420
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "BF NOTE UP MISS"
+		},
+		{
+			"offsets": [
+				420,
+				420
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "BF NOTE RIGHT MISS"
+		},
+		{
+			"offsets": [
+				420,
+				420
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hurt",
+			"indices": [],
+			"name": "BF hit"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				420,
+				420
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "boyfriend dodge",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf9",
+	"position": [
+		-850,
+		350
+	],
+	"healthicon": "bfette",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		350,
+		-500
+	],
+	"sing_duration": 4,
+	"scale": 1.5
+}

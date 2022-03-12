@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="thdchicah.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Cupcake down0000" x="0" y="0" width="475" height="667" frameX="-8" frameY="-18" frameWidth="498" frameHeight="685"/>
+	<SubTexture name="Cupcake down0001" x="475" y="0" width="488" height="677" frameX="-3" frameY="-8" frameWidth="498" frameHeight="685"/>
+	<SubTexture name="Cupcake down0002" x="963" y="0" width="497" height="684" frameX="0" frameY="-1" frameWidth="498" frameHeight="685"/>
+	<SubTexture name="Cupcake down0003" x="1460" y="0" width="498" height="685"/>
+	<SubTexture name="Cupcake down0004" x="1958" y="0" width="497" height="684" frameX="0" frameY="-1" frameWidth="498" frameHeight="685"/>
+	<SubTexture name="Cupcake left0000" x="2455" y="0" width="435" height="703" frameX="-1" frameY="-2" frameWidth="436" frameHeight="705"/>
+	<SubTexture name="Cupcake left0001" x="2890" y="0" width="433" height="704" frameX="0" frameY="-1" frameWidth="436" frameHeight="705"/>
+	<SubTexture name="Cupcake left0002" x="3323" y="0" width="427" height="705" frameX="-1" frameY="0" frameWidth="436" frameHeight="705"/>
+	<SubTexture name="Cupcake left0003" x="3750" y="0" width="427" height="705" frameX="-1" frameY="0" frameWidth="436" frameHeight="705"/>
+	<SubTexture name="Cupcake left0004" x="4177" y="0" width="427" height="705" frameX="-1" frameY="0" frameWidth="436" frameHeight="705"/>
+	<SubTexture name="Cupcake right0000" x="4604" y="0" width="436" height="703" frameX="-12" frameY="-3" frameWidth="448" frameHeight="706"/>
+	<SubTexture name="Cupcake right0001" x="5040" y="0" width="442" height="705" frameX="-6" frameY="-1" frameWidth="448" frameHeight="706"/>
+	<SubTexture name="Cupcake right0002" x="5482" y="0" width="448" height="706"/>
+	<SubTexture name="Cupcake right0003" x="0" y="706" width="446" height="706" frameX="-2" frameY="0" frameWidth="448" frameHeight="706"/>
+	<SubTexture name="Cupcake right0004" x="446" y="706" width="447" height="706" frameX="-1" frameY="0" frameWidth="448" frameHeight="706"/>
+	<SubTexture name="Cupcake up0000" x="893" y="706" width="473" height="710" frameX="-1" frameY="0" frameWidth="474" frameHeight="710"/>
+	<SubTexture name="Cupcake up0001" x="1366" y="706" width="474" height="707" frameX="0" frameY="-3" frameWidth="474" frameHeight="710"/>
+	<SubTexture name="Cupcake up0002" x="1840" y="706" width="474" height="705" frameX="0" frameY="-5" frameWidth="474" frameHeight="710"/>
+	<SubTexture name="Cupcake up0003" x="2314" y="706" width="474" height="705" frameX="0" frameY="-5" frameWidth="474" frameHeight="710"/>
+	<SubTexture name="Cupcake up0004" x="2788" y="706" width="474" height="705" frameX="0" frameY="-5" frameWidth="474" frameHeight="710"/>
+	<SubTexture name="Dad Sing Note DOWN0000" x="3262" y="706" width="442" height="526" frameX="0" frameY="-91" frameWidth="442" frameHeight="617"/>
+	<SubTexture name="Dad Sing Note DOWN0001" x="3704" y="706" width="436" height="579" frameX="-3" frameY="-38" frameWidth="442" frameHeight="617"/>
+	<SubTexture name="Dad Sing Note DOWN0002" x="4140" y="706" width="429" height="611" frameX="-8" frameY="-6" frameWidth="442" frameHeight="617"/>
+	<SubTexture name="Dad Sing Note DOWN0003" x="4569" y="706" width="428" height="617" frameX="-9" frameY="0" frameWidth="442" frameHeight="617"/>
+	<SubTexture name="Dad Sing Note DOWN0004" x="4997" y="706" width="429" height="614" frameX="-8" frameY="-3" frameWidth="442" frameHeight="617"/>
+	<SubTexture name="Dad Sing Note LEFT0000" x="5426" y="706" width="444" height="688" frameX="0" frameY="-18" frameWidth="457" frameHeight="706"/>
+	<SubTexture name="Dad Sing Note LEFT0001" x="0" y="1416" width="445" height="701" frameX="-9" frameY="-5" frameWidth="457" frameHeight="706"/>
+	<SubTexture name="Dad Sing Note LEFT0002" x="445" y="1416" width="435" height="702" frameX="-20" frameY="-4" frameWidth="457" frameHeight="706"/>
+	<SubTexture name="Dad Sing Note LEFT0003" x="880" y="1416" width="434" height="703" frameX="-23" frameY="-3" frameWidth="457" frameHeight="706"/>
+	<SubTexture name="Dad Sing Note LEFT0004" x="1314" y="1416" width="434" height="706" frameX="-22" frameY="0" frameWidth="457" frameHeight="706"/>
+	<SubTexture name="Dad Sing Note RIGHT0000" x="1748" y="1416" width="484" height="660" frameX="-30" frameY="-31" frameWidth="514" frameHeight="691"/>
+	<SubTexture name="Dad Sing Note RIGHT0001" x="2232" y="1416" width="495" height="675" frameX="-13" frameY="-13" frameWidth="514" frameHeight="691"/>
+	<SubTexture name="Dad Sing Note RIGHT0002" x="2727" y="1416" width="496" height="684" frameX="-2" frameY="-2" frameWidth="514" frameHeight="691"/>
+	<SubTexture name="Dad Sing Note RIGHT0003" x="3223" y="1416" width="497" height="686" frameX="0" frameY="0" frameWidth="514" frameHeight="691"/>
+	<SubTexture name="Dad Sing Note RIGHT0004" x="3720" y="1416" width="500" height="685" frameX="-1" frameY="-1" frameWidth="514" frameHeight="691"/>
+	<SubTexture name="Dad Sing Note UP0000" x="4220" y="1416" width="533" height="716" frameX="-2" frameY="0" frameWidth="535" frameHeight="724"/>
+	<SubTexture name="Dad Sing Note UP0001" x="4753" y="1416" width="532" height="717" frameX="-2" frameY="0" frameWidth="535" frameHeight="724"/>
+	<SubTexture name="Dad Sing Note UP0002" x="5285" y="1416" width="530" height="702" frameX="-2" frameY="-21" frameWidth="535" frameHeight="724"/>
+	<SubTexture name="Dad Sing Note UP0003" x="0" y="2133" width="530" height="699" frameX="-1" frameY="-25" frameWidth="535" frameHeight="724"/>
+	<SubTexture name="Dad Sing Note UP0004" x="530" y="2133" width="530" height="702" frameX="0" frameY="-22" frameWidth="535" frameHeight="724"/>
+	<SubTexture name="Dad idle dance0000" x="1060" y="2133" width="477" height="673" frameX="0" frameY="-32" frameWidth="477" frameHeight="705"/>
+	<SubTexture name="Dad idle dance0001" x="1537" y="2133" width="471" height="678" frameX="-2" frameY="-27" frameWidth="477" frameHeight="705"/>
+	<SubTexture name="Dad idle dance0002" x="2008" y="2133" width="466" height="683" frameX="-2" frameY="-22" frameWidth="477" frameHeight="705"/>
+	<SubTexture name="Dad idle dance0003" x="2474" y="2133" width="459" height="687" frameX="-2" frameY="-18" frameWidth="477" frameHeight="705"/>
+	<SubTexture name="Dad idle dance0004" x="2933" y="2133" width="453" height="692" frameX="-2" frameY="-13" frameWidth="477" frameHeight="705"/>
+	<SubTexture name="Dad idle dance0005" x="3386" y="2133" width="448" height="696" frameX="-1" frameY="-9" frameWidth="477" frameHeight="705"/>
+	<SubTexture name="Dad idle dance0006" x="3834" y="2133" width="440" height="700" frameX="-2" frameY="-5" frameWidth="477" frameHeight="705"/>
+	<SubTexture name="Dad idle dance0007" x="4274" y="2133" width="431" height="702" frameX="-4" frameY="-3" frameWidth="477" frameHeight="705"/>
+	<SubTexture name="Dad idle dance0008" x="4705" y="2133" width="425" height="702" frameX="-5" frameY="-3" frameWidth="477" frameHeight="705"/>
+	<SubTexture name="Dad idle dance0009" x="5130" y="2133" width="423" height="705" frameX="-5" frameY="0" frameWidth="477" frameHeight="705"/>
+	<SubTexture name="jump0000" x="0" y="2838" width="799" height="593" frameX="-20" frameY="-60" frameWidth="819" frameHeight="653"/>
+	<SubTexture name="jump0001" x="799" y="2838" width="811" height="630" frameX="-8" frameY="-20" frameWidth="819" frameHeight="653"/>
+	<SubTexture name="jump0002" x="1610" y="2838" width="809" height="647" frameX="-4" frameY="0" frameWidth="819" frameHeight="653"/>
+	<SubTexture name="jump0003" x="2419" y="2838" width="811" height="646" frameX="0" frameY="-1" frameWidth="819" frameHeight="653"/>
+	<SubTexture name="jump0004" x="3230" y="2838" width="812" height="646" frameX="-3" frameY="-1" frameWidth="819" frameHeight="653"/>
+</TextureAtlas>

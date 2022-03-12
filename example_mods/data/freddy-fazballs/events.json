@@ -1,0 +1,79 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "balls",
+		"player1": "cashier",
+		"player2": "balls",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Play Animation",
+						"ball",
+						"Dad"
+					]
+				]
+			],
+			[
+				4440,
+				[
+					[
+						"Play Animation",
+						"turn",
+						"Dad"
+					]
+				]
+			],
+			[
+				14400,
+				[
+					[
+						"Play Animation",
+						"america",
+						"GF"
+					]
+				]
+			],
+			[
+				23460,
+				[
+					[
+						"Play Animation",
+						"vietnam",
+						"GF"
+					]
+				]
+			],
+			[
+				27600,
+				[
+					[
+						"Play Animation",
+						"idle",
+						"GF"
+					]
+				]
+			],
+			[
+				29100,
+				[
+					[
+						"Play Animation",
+						"ball",
+						"Dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "stage",
+		"bpm": 250,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "freddy-fazballs"
+	}
+}

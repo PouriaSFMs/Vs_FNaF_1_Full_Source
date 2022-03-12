@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				540,
+				150
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Dad Sing Note LEFT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				540,
+				150
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Dad Sing Note DOWN",
+			"indices": []
+		},
+		{
+			"offsets": [
+				540,
+				150
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Dad Sing Note UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				540,
+				150
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Dad Sing Note RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				540,
+				150
+			],
+			"loop": true,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Dad idle dance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/bonnie",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bon",
+	"flip_x": false,
+	"healthbar_colors": [
+		75,
+		0,
+		206
+	],
+	"camera_position": [
+		-600,
+		-300
+	],
+	"sing_duration": 10,
+	"scale": 1.2
+}

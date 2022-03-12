@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 1,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				360,
+				-140
+			],
+			"anim": "america",
+			"fps": 1,
+			"name": "america",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				400,
+				100
+			],
+			"anim": "vietnam",
+			"fps": 1,
+			"name": "vietnam",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				400
+			],
+			"anim": "chica",
+			"fps": 1,
+			"name": "chica",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				600,
+				180
+			],
+			"anim": "foxy",
+			"fps": 1,
+			"name": "foxy",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				300,
+				440
+			],
+			"anim": "static",
+			"fps": 24,
+			"name": "static",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				500,
+				590
+			],
+			"anim": "glow",
+			"fps": 24,
+			"name": "glow",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				160,
+				200
+			],
+			"anim": "bonnie",
+			"fps": 24,
+			"name": "bonnie",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/stage",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.5
+}

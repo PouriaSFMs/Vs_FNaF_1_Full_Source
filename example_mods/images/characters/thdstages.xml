@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="thdstages.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bonnie0000" x="0" y="0" width="2000" height="1000"/>
+	<SubTexture name="chica0000" x="2000" y="0" width="1775" height="900"/>
+	<SubTexture name="foxy0000" x="0" y="1000" width="1637" height="900"/>
+	<SubTexture name="freddy0000" x="1637" y="1000" width="2000" height="1000"/>
+	<SubTexture name="feddy0000" x="0" y="2000" width="2000" height="1000"/>
+	<SubTexture name="idle0000" x="0" y="0" width="1" height="1"/>
+</TextureAtlas>

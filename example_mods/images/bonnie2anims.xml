@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bonnie2anims.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="animation0000" x="0" y="0" width="1280" height="720" pivotX="0" pivotY="107.7" frameX="0" frameY="-107" frameWidth="1280" frameHeight="827"/>
+	<SubTexture name="animation0001" x="1280" y="0" width="1280" height="720" frameX="0" frameY="-107" frameWidth="1280" frameHeight="827"/>
+	<SubTexture name="animation0002" x="2560" y="0" width="1280" height="720" frameX="0" frameY="-107" frameWidth="1280" frameHeight="827"/>
+	<SubTexture name="animation0003" x="0" y="720" width="1280" height="720" frameX="0" frameY="-107" frameWidth="1280" frameHeight="827"/>
+	<SubTexture name="animation0004" x="1280" y="720" width="1280" height="720" frameX="0" frameY="-107" frameWidth="1280" frameHeight="827"/>
+	<SubTexture name="animation0005" x="2560" y="720" width="1280" height="720" frameX="0" frameY="-107" frameWidth="1280" frameHeight="827"/>
+	<SubTexture name="animation0006" x="0" y="1440" width="1280" height="720" frameX="0" frameY="-107" frameWidth="1280" frameHeight="827"/>
+	<SubTexture name="animation0007" x="1280" y="1440" width="1280" height="720" frameX="0" frameY="-107" frameWidth="1280" frameHeight="827"/>
+	<SubTexture name="animation0008" x="2560" y="1440" width="1280" height="720" frameX="0" frameY="-107" frameWidth="1280" frameHeight="827"/>
+	<SubTexture name="animation0009" x="0" y="2160" width="1280" height="720" frameX="0" frameY="-107" frameWidth="1280" frameHeight="827"/>
+	<SubTexture name="animation0010" x="1280" y="2160" width="1280" height="720" frameX="0" frameY="-107" frameWidth="1280" frameHeight="827"/>
+	<SubTexture name="animation0011" x="2560" y="2160" width="1280" height="720" frameX="0" frameY="-107" frameWidth="1280" frameHeight="827"/>
+	<SubTexture name="animation0012" x="0" y="2880" width="1280" height="720" frameX="0" frameY="-107" frameWidth="1280" frameHeight="827"/>
+	<SubTexture name="animation0013" x="1280" y="2880" width="1280" height="720" frameX="0" frameY="-107" frameWidth="1280" frameHeight="827"/>
+	<SubTexture name="animation0014" x="2560" y="2880" width="1280" height="720" frameX="0" frameY="-107" frameWidth="1280" frameHeight="827"/>
+	<SubTexture name="animation0015" x="0" y="3600" width="1280" height="720" frameX="0" frameY="-107" frameWidth="1280" frameHeight="827"/>
+	<SubTexture name="animation0016" x="1280" y="3600" width="1280" height="720" frameX="0" frameY="-107" frameWidth="1280" frameHeight="827"/>
+	<SubTexture name="animation0017" x="2560" y="3600" width="1280" height="720" frameX="0" frameY="-107" frameWidth="1280" frameHeight="827"/>
+	<SubTexture name="animation0018" x="0" y="4320" width="1280" height="720" frameX="0" frameY="-107" frameWidth="1280" frameHeight="827"/>
+	<SubTexture name="animation0019" x="1280" y="4320" width="1280" height="720" frameX="0" frameY="-107" frameWidth="1280" frameHeight="827"/>
+	<SubTexture name="animation0020" x="2560" y="4320" width="1280" height="720" frameX="0" frameY="-107" frameWidth="1280" frameHeight="827"/>
+	<SubTexture name="animation0021" x="0" y="5040" width="1280" height="720" frameX="0" frameY="-107" frameWidth="1280" frameHeight="827"/>
+	<SubTexture name="animation0022" x="1280" y="5040" width="1280" height="827"/>
+	<SubTexture name="animation0023" x="2560" y="5040" width="1280" height="720" frameX="0" frameY="-107" frameWidth="1280" frameHeight="827"/>
+</TextureAtlas>

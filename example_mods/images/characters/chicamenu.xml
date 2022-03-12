@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="chicamenu.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="enter0000" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="enter0001" x="1280" y="0" width="1280" height="720"/>
+	<SubTexture name="enter0002" x="2560" y="0" width="1280" height="720"/>
+	<SubTexture name="enter0003" x="0" y="720" width="1280" height="720"/>
+	<SubTexture name="enter0004" x="1280" y="720" width="1280" height="720"/>
+	<SubTexture name="enter0005" x="2560" y="720" width="1280" height="720"/>
+	<SubTexture name="enter0006" x="0" y="1440" width="1280" height="720"/>
+	<SubTexture name="idle0000" x="1280" y="1440" width="1280" height="720"/>
+</TextureAtlas>

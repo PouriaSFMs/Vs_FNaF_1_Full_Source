@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="thdgfreddysit.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dad Sing Note DOWN0000" x="0" y="0" width="572" height="361" frameX="0" frameY="-72" frameWidth="572" frameHeight="433"/>
+	<SubTexture name="Dad Sing Note DOWN0001" x="572" y="0" width="572" height="371" frameX="0" frameY="-62" frameWidth="572" frameHeight="433"/>
+	<SubTexture name="Dad Sing Note DOWN0002" x="1144" y="0" width="572" height="418" frameX="0" frameY="-15" frameWidth="572" frameHeight="433"/>
+	<SubTexture name="Dad Sing Note DOWN0003" x="1716" y="0" width="572" height="433"/>
+	<SubTexture name="Dad Sing Note DOWN0004" x="2288" y="0" width="572" height="431" frameX="0" frameY="-2" frameWidth="572" frameHeight="433"/>
+	<SubTexture name="Dad Sing Note LEFT0000" x="2860" y="0" width="609" height="458" frameX="-9" frameY="-27" frameWidth="618" frameHeight="485"/>
+	<SubTexture name="Dad Sing Note LEFT0001" x="3469" y="0" width="618" height="400" frameX="0" frameY="-85" frameWidth="618" frameHeight="485"/>
+	<SubTexture name="Dad Sing Note LEFT0002" x="0" y="458" width="587" height="447" frameX="-31" frameY="-38" frameWidth="618" frameHeight="485"/>
+	<SubTexture name="Dad Sing Note LEFT0003" x="587" y="458" width="572" height="482" frameX="-46" frameY="-3" frameWidth="618" frameHeight="485"/>
+	<SubTexture name="Dad Sing Note LEFT0004" x="1159" y="458" width="572" height="485" frameX="-46" frameY="0" frameWidth="618" frameHeight="485"/>
+	<SubTexture name="Dad Sing Note RIGHT0000" x="1731" y="458" width="581" height="435" frameX="0" frameY="-46" frameWidth="581" frameHeight="481"/>
+	<SubTexture name="Dad Sing Note RIGHT0001" x="2312" y="458" width="572" height="467" frameX="-2" frameY="-14" frameWidth="581" frameHeight="481"/>
+	<SubTexture name="Dad Sing Note RIGHT0002" x="2884" y="458" width="566" height="481" frameX="-2" frameY="0" frameWidth="581" frameHeight="481"/>
+	<SubTexture name="Dad Sing Note RIGHT0003" x="3450" y="458" width="565" height="472" frameX="-3" frameY="-9" frameWidth="581" frameHeight="481"/>
+	<SubTexture name="Dad Sing Note RIGHT0004" x="0" y="943" width="565" height="476" frameX="-3" frameY="-5" frameWidth="581" frameHeight="481"/>
+	<SubTexture name="Dad Sing Note UP0000" x="565" y="943" width="571" height="470" frameX="-1" frameY="-25" frameWidth="572" frameHeight="495"/>
+	<SubTexture name="Dad Sing Note UP0001" x="1136" y="943" width="572" height="470" frameX="0" frameY="-25" frameWidth="572" frameHeight="495"/>
+	<SubTexture name="Dad Sing Note UP0002" x="1708" y="943" width="572" height="477" frameX="0" frameY="-18" frameWidth="572" frameHeight="495"/>
+	<SubTexture name="Dad Sing Note UP0003" x="2280" y="943" width="572" height="495"/>
+	<SubTexture name="Dad Sing Note UP0004" x="2852" y="943" width="572" height="494" frameX="0" frameY="-1" frameWidth="572" frameHeight="495"/>
+	<SubTexture name="Dad idle dance0000" x="3424" y="943" width="572" height="501" frameX="-1" frameY="-1" frameWidth="573" frameHeight="502"/>
+	<SubTexture name="Dad idle dance0001" x="0" y="1444" width="572" height="502" frameX="-1" frameY="0" frameWidth="573" frameHeight="502"/>
+	<SubTexture name="Dad idle dance0002" x="572" y="1444" width="572" height="502" frameX="-1" frameY="0" frameWidth="573" frameHeight="502"/>
+	<SubTexture name="Dad idle dance0003" x="1144" y="1444" width="572" height="502" frameX="-1" frameY="0" frameWidth="573" frameHeight="502"/>
+	<SubTexture name="Dad idle dance0004" x="1716" y="1444" width="572" height="502" frameX="-1" frameY="0" frameWidth="573" frameHeight="502"/>
+	<SubTexture name="Dad idle dance0005" x="2288" y="1444" width="572" height="501" frameX="-1" frameY="-1" frameWidth="573" frameHeight="502"/>
+	<SubTexture name="Dad idle dance0006" x="2860" y="1444" width="572" height="501" frameX="-1" frameY="-1" frameWidth="573" frameHeight="502"/>
+	<SubTexture name="Dad idle dance0007" x="3432" y="1444" width="572" height="501" frameX="-1" frameY="-1" frameWidth="573" frameHeight="502"/>
+	<SubTexture name="Dad idle dance0008" x="0" y="1946" width="572" height="501" frameX="-1" frameY="-1" frameWidth="573" frameHeight="502"/>
+	<SubTexture name="Dad idle dance0009" x="572" y="1946" width="572" height="501" frameX="0" frameY="-1" frameWidth="573" frameHeight="502"/>
+	<SubTexture name="trans0000" x="1144" y="1946" width="572" height="501" frameX="-74" frameY="-304" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0001" x="1716" y="1946" width="572" height="494" frameX="-74" frameY="-311" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0002" x="2288" y="1946" width="572" height="490" frameX="-74" frameY="-315" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0003" x="2860" y="1946" width="572" height="505" frameX="-74" frameY="-300" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0004" x="3432" y="1946" width="572" height="476" frameX="-74" frameY="-329" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0005" x="0" y="2451" width="572" height="474" frameX="-74" frameY="-331" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0006" x="572" y="2451" width="571" height="478" frameX="-75" frameY="-327" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0007" x="1143" y="2451" width="571" height="489" frameX="-75" frameY="-316" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0008" x="1714" y="2451" width="571" height="498" frameX="-75" frameY="-307" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0009" x="2285" y="2451" width="571" height="487" frameX="-75" frameY="-318" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0010" x="2856" y="2451" width="571" height="467" frameX="-75" frameY="-338" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0011" x="3427" y="2451" width="570" height="456" frameX="-76" frameY="-349" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0012" x="0" y="2949" width="570" height="451" frameX="-76" frameY="-354" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0013" x="570" y="2949" width="570" height="447" frameX="-76" frameY="-358" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0014" x="1140" y="2949" width="569" height="445" frameX="-77" frameY="-360" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0015" x="1709" y="2949" width="569" height="442" frameX="-77" frameY="-363" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0016" x="2278" y="2949" width="569" height="439" frameX="-77" frameY="-366" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0017" x="2847" y="2949" width="568" height="436" frameX="-78" frameY="-369" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0018" x="3415" y="2949" width="568" height="434" frameX="-78" frameY="-371" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0019" x="0" y="3400" width="568" height="433" frameX="-78" frameY="-372" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0020" x="568" y="3400" width="567" height="433" frameX="-79" frameY="-372" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0021" x="1135" y="3400" width="568" height="432" frameX="-78" frameY="-373" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0022" x="1703" y="3400" width="567" height="432" frameX="-79" frameY="-373" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0023" x="2270" y="3400" width="568" height="431" frameX="-78" frameY="-374" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0024" x="2838" y="3400" width="567" height="430" frameX="-79" frameY="-375" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0025" x="3405" y="3400" width="569" height="429" frameX="-77" frameY="-376" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0026" x="0" y="3833" width="569" height="427" frameX="-77" frameY="-378" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0027" x="569" y="3833" width="569" height="425" frameX="-77" frameY="-380" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0028" x="1138" y="3833" width="570" height="425" frameX="-76" frameY="-380" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0029" x="1708" y="3833" width="572" height="473" frameX="-74" frameY="-332" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0030" x="2280" y="3833" width="580" height="502" frameX="-66" frameY="-303" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0031" x="2860" y="3833" width="604" height="444" frameX="-42" frameY="-361" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0032" x="3464" y="3833" width="600" height="368" frameX="-46" frameY="-437" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0033" x="0" y="4335" width="620" height="302" frameX="-26" frameY="-503" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0034" x="620" y="4335" width="634" height="262" frameX="-12" frameY="-543" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0035" x="1254" y="4335" width="641" height="237" frameX="-5" frameY="-568" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0036" x="1895" y="4335" width="646" height="229" frameX="0" frameY="-579" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0037" x="2541" y="4335" width="641" height="235" frameX="-5" frameY="-591" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0038" x="3182" y="4335" width="637" height="234" frameX="-9" frameY="-602" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0039" x="0" y="4637" width="633" height="227" frameX="-13" frameY="-611" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0040" x="633" y="4637" width="631" height="225" frameX="-15" frameY="-615" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0041" x="1264" y="4637" width="629" height="237" frameX="-17" frameY="-614" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0042" x="1893" y="4637" width="623" height="244" frameX="-23" frameY="-607" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0043" x="2516" y="4637" width="616" height="251" frameX="-30" frameY="-594" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0044" x="3132" y="4637" width="608" height="278" frameX="-38" frameY="-571" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0045" x="0" y="4915" width="595" height="307" frameX="-51" frameY="-539" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0046" x="595" y="4915" width="593" height="333" frameX="-53" frameY="-500" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0047" x="1188" y="4915" width="593" height="352" frameX="-53" frameY="-456" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0048" x="1781" y="4915" width="577" height="387" frameX="-75" frameY="-419" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0049" x="2358" y="4915" width="566" height="429" frameX="-90" frameY="-377" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0050" x="2924" y="4915" width="551" height="465" frameX="-106" frameY="-341" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0051" x="3475" y="4915" width="534" height="490" frameX="-119" frameY="-315" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0052" x="0" y="5405" width="516" height="508" frameX="-142" frameY="-284" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0053" x="516" y="5405" width="503" height="522" frameX="-160" frameY="-253" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0054" x="1019" y="5405" width="495" height="537" frameX="-171" frameY="-206" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0055" x="1514" y="5405" width="489" height="551" frameX="-184" frameY="-150" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0056" x="2003" y="5405" width="483" height="562" frameX="-197" frameY="-110" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0057" x="2486" y="5405" width="478" height="568" frameX="-208" frameY="-81" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0058" x="2964" y="5405" width="472" height="578" frameX="-216" frameY="-60" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0059" x="3436" y="5405" width="462" height="606" frameX="-228" frameY="-22" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0060" x="0" y="6011" width="455" height="619" frameX="-243" frameY="-3" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0061" x="455" y="6011" width="449" height="608" frameX="-256" frameY="-8" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0062" x="904" y="6011" width="443" height="603" frameX="-266" frameY="-16" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0063" x="1347" y="6011" width="448" height="604" frameX="-267" frameY="-16" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0064" x="1795" y="6011" width="481" height="607" frameX="-259" frameY="-12" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0065" x="2276" y="6011" width="531" height="611" frameX="-237" frameY="-8" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0066" x="2807" y="6011" width="567" height="616" frameX="-221" frameY="-2" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0067" x="3374" y="6011" width="572" height="622" frameX="-217" frameY="-4" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0068" x="0" y="6633" width="571" height="627" frameX="-216" frameY="-1" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0069" x="571" y="6633" width="568" height="632" frameX="-219" frameY="0" frameWidth="789" frameHeight="851"/>
+	<SubTexture name="trans0070" x="1139" y="6633" width="567" height="632" frameX="-221" frameY="-4" frameWidth="789" frameHeight="851"/>
+</TextureAtlas>

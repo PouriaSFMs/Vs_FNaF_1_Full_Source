@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"anim": "idle",
+			"fps": 0,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-30
+			],
+			"loop": false,
+			"anim": "enter",
+			"fps": 24,
+			"name": "enter",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/freddymenu",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

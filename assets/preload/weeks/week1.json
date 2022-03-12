@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"the-fazbear",
+			"fed",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"inside-the-shell",
+			"fed2",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"broken-inside",
+			"gfed",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Are you ready for some Fazbear Pizza ?",
+	"weekName": "Week F",
+	"freeplayColor": [
+		255,
+		255,
+		255
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

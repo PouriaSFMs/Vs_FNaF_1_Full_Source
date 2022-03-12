@@ -1,0 +1,48 @@
+{
+	"storyName": "Now this is an actual bash jam",
+	"hideFreeplay": false,
+	"weekBackground": "halloween",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"first-to-go",
+			"bon",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"terrorizing",
+			"bon2",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"shut-the-door",
+			"bon3",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week B"
+}

@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				360,
+				90
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Dad Sing Note LEFT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				360,
+				90
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Dad Sing Note DOWN"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				360,
+				90
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Dad Sing Note UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				360,
+				90
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Dad Sing Note RIGHT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				360,
+				90
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Dad idle dance"
+		},
+		{
+			"offsets": [
+				-150,
+				-110
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hereicome",
+			"loop": false,
+			"name": "hereicome"
+		},
+		{
+			"offsets": [
+				-350,
+				-70
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "attack",
+			"loop": false,
+			"name": "attack"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/foxy2",
+	"position": [
+		0,
+		-100
+	],
+	"healthicon": "fox2",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-740,
+		-170
+	],
+	"sing_duration": 10,
+	"scale": 1.6
+}

@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"midnight-snack",
+			"chic",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"rummager",
+			"chic2",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"one-more-bite",
+			"chic3",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "philly",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "PIZZA",
+	"weekName": "Week C",
+	"freeplayColor": [
+		255,
+		255,
+		255
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				360,
+				90
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Dad Sing Note LEFT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				360,
+				90
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Dad Sing Note DOWN"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				360,
+				90
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Dad Sing Note UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				360,
+				90
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Dad Sing Note RIGHT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				360,
+				90
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Dad idle dance"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/freddy2",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "fed2",
+	"flip_x": false,
+	"healthbar_colors": [
+		109,
+		60,
+		14
+	],
+	"camera_position": [
+		-650,
+		-300
+	],
+	"sing_duration": 10,
+	"scale": 1.4
+}

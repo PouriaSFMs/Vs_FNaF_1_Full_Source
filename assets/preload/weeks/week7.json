@@ -1,0 +1,66 @@
+{
+	"storyName": "shitweek",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		255,
+		255,
+		255
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"beatbox",
+			"beat",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"freddy-assbear",
+			"fed",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"freddy-fazballs",
+			"fed",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"power-outage",
+			"pup",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"backroom",
+			"sfed",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Week E"
+}

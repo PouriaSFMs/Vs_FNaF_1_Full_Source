@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 1,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				600,
+				360
+			],
+			"loop": true,
+			"fps": 1,
+			"anim": "chica",
+			"indices": [],
+			"name": "chica"
+		},
+		{
+			"offsets": [
+				600,
+				390
+			],
+			"loop": true,
+			"fps": 1,
+			"anim": "foxy",
+			"indices": [],
+			"name": "foxy"
+		},
+		{
+			"offsets": [
+				1190,
+				500
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "bonnie",
+			"indices": [],
+			"name": "bonnie"
+		},
+		{
+			"offsets": [
+				1000,
+				500
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "freddy",
+			"indices": [],
+			"name": "freddy"
+		},
+		{
+			"offsets": [
+				1000,
+				450
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "feddy",
+			"indices": [],
+			"name": "feddy"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/thdstages",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.5
+}

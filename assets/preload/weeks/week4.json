@@ -1,0 +1,48 @@
+{
+	"storyName": "Rap battling a pirate, or a FOX for that matter",
+	"hideFreeplay": false,
+	"weekBackground": "limo",
+	"weekBefore": "week3",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"pirate-adventure",
+			"fox",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"walk-the-plank",
+			"fox2",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"lost-at-sea",
+			"foxp",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week P"
+}
