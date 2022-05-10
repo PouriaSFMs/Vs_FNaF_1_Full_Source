@@ -481,3 +481,4 @@ void LibVLC::callbacks( const libvlc_event_t* event, void* ptr )
     }
 	
 }
+// E
