@@ -19,7 +19,7 @@ To install LuaJIT do this: `haxelib install linc_luajit` on a Command prompt/Pow
 * shubs - New Input System
 * SqirraRNG - Chart Editor's Sound Waveform base code
 * iFlicky - Delay/Combo Menu Song Composer + Dialogue Sounds
-* PolybiusProxy - .MP4 Loader Extension
+* PolybiusProxy - .MP4 Loader Extension (He Sucks At Adding .MP4 Playing)
 * Keoiki - Note Splash Animations
 _____________________________________
 
